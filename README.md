@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java&logoColor=orange"/></a> 
 <img src="https://img.shields.io/badge/Javascript-FFFFFF?style=flat-square&logo=Javascript&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=html5"/></a> 
-<img src="https://img.shields.io/badge/CSS-FFFFFF?style=flat-square&logo=css3"/></a><br/>
+<img src="https://img.shields.io/badge/CSS-FFFFFF?style=flat-square&logo=css3&logoColor=blue"/></a><br/>
 <img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=Spring"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=SpringBoot"/></a>
 <img src="https://img.shields.io/badge/React.js-FFFFFF?style=flat-square&logo=react"/></a>
@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manual-hue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="text-align: end;"><code>Contact Info: <a href="mailto:ksoyoun315@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4500?style=flat-square&logo=gmail&logoColor=white"></a></code></div>
+##### *Contact info:* <a href="mailto:ksoyoun315@gmail.com"><img src="https://img.shields.io/badge/Gmail-dc143c?logo=gmail&logoColor=white"></a>
 
 ##
 
