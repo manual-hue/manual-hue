@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manual-hue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="mailto:ksoyoun315@gmail.com"><img src="https://img.shields.io/badge/Contact Me To Gmail-ff4500?style=flat-square&logo=gmail&logoColor=white"></a>
+<div style="text-align: end;"><code>Contact Info: <a href="mailto:ksoyoun315@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4500?style=flat-square&logo=gmail&logoColor=white"></a></code></div>
 
 ##
 
